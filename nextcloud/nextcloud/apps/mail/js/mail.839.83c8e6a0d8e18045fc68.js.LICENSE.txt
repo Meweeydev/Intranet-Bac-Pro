@@ -1,0 +1,42 @@
+/*!
+	autosize 4.0.2
+	license: MIT
+	http://www.jacklmoore.com/autosize
+*/
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*! For license information please see NcActionLink.js.LICENSE.txt */
+
+/*! For license information please see NcActionRadio.js.LICENSE.txt */
+
+/*! For license information please see NcActions.js.LICENSE.txt */
+
+/*! For license information please see NcAppContent.js.LICENSE.txt */
+
+/*! For license information please see NcAvatar.js.LICENSE.txt */
+
+/*! For license information please see NcDatetimePicker.js.LICENSE.txt */
+
+/*! For license information please see NcListItem.js.LICENSE.txt */
+
+/*! For license information please see NcListItemIcon.js.LICENSE.txt */
+
+/*! For license information please see NcUserBubble.js.LICENSE.txt */
+
+/*! https://mths.be/base64 v1.0.0 by @mathias | MIT license */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+* @license nested-property https://github.com/cosmosio/nested-property
+*
+* The MIT License (MIT)
+*
+* Copyright (c) 2014-2020 Olivier Scherrer <pode.fr@gmail.com>
+*/

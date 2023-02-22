@@ -1,0 +1,2 @@
+(()=>{"use strict";const e=function(e,t,o){const n=document.querySelector(`#initial-state-${e}-${t}`);if(null===n){if(void 0!==o)return o;throw new Error(`Could not find initial state ${t} of ${e}`)}try{return JSON.parse(atob(n.value))}catch(o){throw new Error(`Could not parse initial state ${t} of ${e}`)}}("integration_github","popup-data"),t=e.user_name,o=e.user_displayname;window.opener&&(window.opener.postMessage({userName:t,userDisplayName:o}),window.close())})();
+//# sourceMappingURL=integration_github-popupSuccess.js.map

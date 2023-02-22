@@ -1,0 +1,56 @@
+.icon-openproject {
+	background-image: url(./../img/app.svg);
+	filter: contrast(0) brightness(0) !important;
+	min-width: 32px !important;
+}
+
+.icon-openproject-till-nc-25 {
+	position: relative;
+}
+
+.panel--header .icon-openproject-till-nc-25::after {
+	left: 20px;
+	top: 22%;
+	height: 30px;
+	width: 30px;
+	background-size: 30px;
+}
+
+.panels li .icon-openproject-till-nc-25::after {
+	left: 10%;
+	top: 15%;
+	height: 26px;
+	width: 26px;
+	background-size: 26px;
+}
+
+.icon-openproject-till-nc-25::after {
+	content: '';
+	position: absolute;
+	filter: contrast(0) brightness(0);
+	background-image: url(./../img/app.svg);
+}
+
+body.theme--dark .icon-openproject-till-nc-25::after {
+	filter: none !important;
+}
+
+body.theme--dark .icon-openproject {
+	filter: none !important;
+}
+
+body[data-theme-dark] .icon-openproject-till-nc-25::after {
+	filter: none !important;
+}
+
+body[data-theme-dark] .icon-openproject {
+	filter: none !important;
+}
+
+body[data-theme-dark-highcontrast] .icon-openproject {
+	filter: none !important;
+}
+
+body[data-theme-dark-highcontrast] .icon-openproject-till-nc-25::after {
+	filter: none !important;
+}

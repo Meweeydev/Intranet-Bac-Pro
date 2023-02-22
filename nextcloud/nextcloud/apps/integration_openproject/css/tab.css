@@ -1,0 +1,25 @@
+@import '../css/dashboard.css';
+
+span.icon-openproject {
+	padding: 0 !important;
+	min-width: 44px !important;
+	min-height: 16px !important;
+	background-size: 16px 16px;
+}
+
+#tab-open-project {
+	height: 100%;
+	padding: 0;
+}
+
+.loading-spinner {
+	animation-name: spin;
+	animation-duration: 1000ms;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes spin {
+	from {transform: rotate(0deg);}
+	to {transform: rotate(360deg);}
+}

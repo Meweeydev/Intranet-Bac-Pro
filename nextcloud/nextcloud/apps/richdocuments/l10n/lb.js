@@ -1,0 +1,27 @@
+OC.L10N.register(
+    "richdocuments",
+    {
+    "New Document.odt" : "Neit Dokument.odt",
+    "New Spreadsheet.ods" : "Neien Spreadsheet.ods",
+    "New Presentation.odp" : "Nei Presentatioun.odp",
+    "Saved" : "Gespäichert",
+    "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" : "Déi ropgelueden Datei ass méi grouss wei d'MAX_FILE_SIZE Eegenschaft déi an der HTML form uginn ass",
+    "No file was uploaded" : "Et ass kee Fichier ropgeluede ginn",
+    "Missing a temporary folder" : "Et feelt en temporären Dossier",
+    "Advanced settings" : "Erweidert Astellungen",
+    "Select groups" : "Wiel Gruppen äus",
+    "Description" : "Beschreiwung",
+    "Cancel" : "Ofbriechen",
+    "Close" : "Zoumaachen",
+    "Error" : "Fehler",
+    "Nickname" : "Spëtznumm",
+    "Save" : "Späicheren",
+    "Remove from favorites" : "Remove from favorites",
+    "Add to favorites" : "Add to favorites",
+    "Details" : "Detailer",
+    "Download" : "Eroflueden",
+    "Could not create file" : "De Fichier konnt net erstallt ginn",
+    "Create" : "Erstellen",
+    "Collabora Online" : "Collabora Online"
+},
+"nplurals=2; plural=(n != 1);");

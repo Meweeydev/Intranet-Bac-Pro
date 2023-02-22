@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<info>
+    <id>welcome</id>
+    <name>Welcome</name>
+    <summary>Dashboard widget to display welcome content</summary>
+    <description><![CDATA[
+ℹ A Markdown rendering Dashboard widget to welcome all users.
+
+⚙ Configure via `Settings > Administration > Theming > Welcome widget`
+
+📄 Pick a Markdown document to be rendered in the widget
+
+💡 If no document is chosen, the widget won't be shown
+
+📝 Edit the Markdown document to update the widget in real-time
+
+🖼 Images are also supported
+
+💬 Configure a contact person to directly start a chat with (requires [Nextcloud Talk](https://apps.nextcloud.com/apps/spreed) to be installed)
+    ]]></description>
+    <version>1.0.2</version>
+    <licence>agpl</licence>
+    <author>Julien Veyssier</author>
+    <namespace>Welcome</namespace>
+    <documentation>
+        <developer>https://github.com/eneiluj/welcome</developer>
+    </documentation>
+    <category>integration</category>
+    <category>dashboard</category>
+    <website>https://github.com/eneiluj/welcome</website>
+    <bugs>https://github.com/eneiluj/welcome/issues</bugs>
+    <screenshot>https://github.com/eneiluj/welcome/raw/master/img/screenshot1.jpg</screenshot>
+    <dependencies>
+        <nextcloud min-version="22" max-version="26"/>
+    </dependencies>
+    <settings>
+        <admin>OCA\Welcome\Settings\Admin</admin>
+    </settings>
+</info>

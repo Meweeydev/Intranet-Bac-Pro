@@ -1,0 +1,23 @@
+{ "translations": {
+    "Details" : "معلومات",
+    "Download" : "ښکته کول",
+    "Groups" : "ګروپونه",
+    "Rename" : "نوم بدلول",
+    "Delete" : "ړنګول",
+    "Copy link" : "لېنک کاپي کول",
+    "Save" : "ساتل",
+    "Invalid image" : "انځور سم نه دی",
+    "Name" : "نوم",
+    "Cancel" : "پرېښول",
+    "Search contacts …" : "اړيکي پلټل ...",
+    "Pending" : "د انتظار په حال کې",
+    "Close" : "بندول",
+    "Circle" : "حلقه",
+    "Admin" : "ستر کارن",
+    "Users" : "کارنان",
+    "Notes" : "شسیب",
+    "Home" : "کور",
+    "Work" : "دفتر",
+    "Other" : "نور"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
